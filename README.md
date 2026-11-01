@@ -150,7 +150,9 @@ For input `N = 7`, the 7th prime number is `17`. The program inserts
 
 ## Screenshot
 
-![JDBC program output](screenshots/jdbc-output.png)
+<img width="890" height="233" alt="IJ" src="https://github.com/user-attachments/assets/d25decc0-dde6-4562-a319-5126afe531e3" />
+
+<img width="537" height="260" alt="DB" src="https://github.com/user-attachments/assets/5a31b6c7-979a-4934-89bd-edd82c2aec30" />
 
 ------------------------------------------------------------------------
 
@@ -352,11 +354,13 @@ Enter a number and click **Check**.
 
 ### Prime checker input form
 
-![Prime checker form](screenshots/prime-check-form.png)
+
 
 ### Prime checker result
+<img width="922" height="472" alt="Output" src="https://github.com/user-attachments/assets/ee395a95-13b8-4af4-ac30-a5a29ea655e0" />
 
-![Prime checker result](screenshots/prime-check-result.png)
+<img width="926" height="475" alt="prime check from browser" src="https://github.com/user-attachments/assets/061f203b-052a-4d90-a17b-c92960152c49" />
+
 
 Example shown: `93 is not a Prime Number`.
 
