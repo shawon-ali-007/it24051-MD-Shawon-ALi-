@@ -245,7 +245,8 @@ After deployment, open:
 
 ## Result screenshot
 
-![Hello World Servlet output](screenshots/hello-world-servlet.png)
+<img width="920" height="504" alt="Hello World" src="https://github.com/user-attachments/assets/1615eac1-ec14-4b2f-8ff3-cc7d4e8a1d64" />
+
 
 ------------------------------------------------------------------------
 
